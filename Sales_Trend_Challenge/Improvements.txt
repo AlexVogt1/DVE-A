@@ -1,0 +1,8 @@
+One effective way to enhance the detection of trending products is by incorporating sales velocity into the system. 
+Sales velocity measures the speed at which products are selling within a given period, such as daily or weekly. 
+By tracking the changes in sales velocity, the system can identify products that are not only increasing in volume 
+but also accelerating in sales.
+
+This approach allows the company to detect trends more dynamically rather than statically, capturing products that are rapidly gaining popularity. 
+Once more data is collected, implementing sales velocity as a metric and maybe combined with historical sales data and external factors like seasonality, 
+would make the system more responsive and accurate at identifying trending products.
